@@ -52,6 +52,9 @@ Technologies: Python, Developed a comprehensive system for event registration an
 Currently Learning:
 Advanced Python concepts
 C++
+HTML
+CSS
+JavaScript
 Data Structure and Algorthims
 Web development 
 Operating System
