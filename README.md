@@ -61,9 +61,9 @@ Operating System
 Data Science Professional Certificate from IBM
 
 Connect with Me
-LinkedIn [www.linkedin.com/in/omar9951]
+LinkedIn www.linkedin.com/in/omar9951
 
-Email [omarkamaldiab9951@gmail.com]
+Email omarkamaldiab9951@gmail.com
 
 GitHub Stats
 https://github.com/omardiab9951
