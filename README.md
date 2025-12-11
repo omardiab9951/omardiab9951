@@ -9,11 +9,15 @@ Bachelor of Technology (B.Tech) Computer Science (Sophomore).
 
 Technical Skills:
 Programming Languages:
-Python - Proficient in Python programming with focus on automation and web scraping.
-Java - Strong object-oriented programming skills.
-MySQL - Database management and querying.
+Python.
+Jav.
+MySQL.
+C++.
+HTML.
+CSS.
 
 Technical Expertise:
+Building Small ML/DL Models,
 Object-Oriented Programming (Java),
 Automation - Developing automated solutions and workflows,
 Web Scraping - Extracting and processing web data by Coding and Non-Coding.
@@ -52,9 +56,6 @@ Technologies: Python, Developed a comprehensive system for event registration an
 Currently Learning:
 Advanced Python concepts
 C++
-HTML
-CSS
-JavaScript
 Data Structure and Algorthims
 Web development 
 Operating System
