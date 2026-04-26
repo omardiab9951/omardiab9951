@@ -1,49 +1,96 @@
-Omar Diab
-About Me:
-I'm a Data Science & AI student at ElSewedy University of Technology - Polytechnic of Egypt, passionate about AI, Data Science, and Programming. I possess a comprehensive technical background centered on Deep Learning and Computer Vision, with a proven track record of architecting, training, and successfully deploying production-ready models. My expertise bridges the gap between theoretical research and functional application, specifically in the realm of real-time monitoring and advanced object detection.
+<div align="center">
 
-Beyond my specialization, I hold a robust foundation across the broader computer science and data landscapes, including:
+```
+ ██████╗ ███╗   ███╗ █████╗ ██████╗     ██████╗ ██╗ █████╗ ██████╗
+██╔═══██╗████╗ ████║██╔══██╗██╔══██╗    ██╔══██╗██║██╔══██╗██╔══██╗
+██║   ██║██╔████╔██║███████║██████╔╝    ██║  ██║██║███████║██████╔╝
+██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗    ██║  ██║██║██╔══██║██╔══██╗
+╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║    ██████╔╝██║██║  ██║██████╔╝
+ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═════╝ ╚═╝╚═╝  ╚═╝╚═════╝
+```
 
-Machine Learning & Neural Networks: A deep understanding of supervised/unsupervised learning, neural architecture design, and modern AI agent frameworks.
+### Data Science & AI Student · Deep Learning Engineer · Computer Vision Specialist
 
-Data Systems: Foundational knowledge in Cloud Databases, Data Analytics, and Visualization, enabling me to extract insights from complex datasets.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar9951-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar9951)
+[![GitHub](https://img.shields.io/badge/GitHub-omardiab9951-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omardiab9951)
+[![Email](https://img.shields.io/badge/Email-omarkamaldiab9951@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarkamaldiab9951@gmail.com)
 
-Infrastructure & Scripting: Solid basics in Linux and Shell Programming, essential for system administration and automating development workflows.
+</div>
 
-Core Fundamentals: A firm grasp of Data Structures and Algorithms, providing the computational logic necessary for building efficient, scalable software.
+---
 
-Education
-ElSewedy University of Technology - Polytechnic of Egypt
+## 👁️ About Me
 
-Bachelor of Computer Science Technology (B.Tech)
+I'm a **Data Science & AI student** at *ElSewedy University of Technology — Polytechnic of Egypt*, driven by a deep passion for AI, data science, and building things that actually work in the real world.
 
-Major: Data Science and AI
+My technical focus sits at the intersection of **Deep Learning** and **Computer Vision** — I've architected, trained, and deployed production-ready models that bridge the gap between research papers and real-time applications. Whether it's pushing inference speeds on edge hardware or designing novel augmentation pipelines, I care about systems that perform under pressure.
 
-Technical Skills
-Programming Languages:
+---
 
-Python, Java, C++, MySQL, HTML, CSS.
+## 🎓 Education
 
-Technical Expertise:
+**ElSewedy University of Technology — Polytechnic of Egypt**
+- 🎓 Bachelor of Computer Science Technology (B.Tech)
+- 📌 Major: **Data Science and Artificial Intelligence**
 
-Core CS: Data Structures & Algorithms, Object-Oriented Programming (Java), Operating Systems.
+---
 
-AI & Data: Machine Learning, Neural Networks, Deep Learning, Computer Vision, Cloud Databases.
+## 🧠 Technical Skills
 
-Data Engineering: Database Management Systems (DBMS), Web Scraping (Extracting and processing web data).
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-Development & DevOps: Linux & Shell Programming, Web Programming, Network Basics.
+### AI & Machine Learning
+| Domain | Skills |
+|---|---|
+| 🤖 **Core AI** | Machine Learning, Neural Networks, Deep Learning |
+| 👁️ **Computer Vision** | Object Detection, Real-Time Inference, Image Processing |
+| ☁️ **Data & Cloud** | Cloud Databases, Data Analytics, Visualization |
 
-Automation: Developing automated solutions and workflows (n8n).
+### Engineering & Infrastructure
+| Domain | Skills |
+|---|---|
+| 🗄️ **Data Engineering** | DBMS, Web Scraping, Data Pipelines |
+| 🐧 **DevOps & Systems** | Linux & Shell Programming, Network Basics |
+| 🌐 **Development** | Web Programming, OOP (Java) |
+| ⚙️ **Automation** | Workflow Automation with **n8n** |
+| 📐 **CS Fundamentals** | Data Structures & Algorithms, Operating Systems |
 
-Soft Skills
-Leadership: Experience coordinating technical teams and project workflows.
+---
 
-Presentation: Skilled in communicating complex technical concepts to diverse audiences.
+## 🛠️ What I Build
 
-Connect with Me
-LinkedIn: www.linkedin.com/in/omar9951
+- **Real-time computer vision systems** — from dataset curation to live inference deployment
+- **Deep learning pipelines** — custom architectures, augmentation strategies, and training loops
+- **Automated workflows** — bridging data sources and AI outputs with tools like n8n
+- **Research-grade models** — designed for publication, built for production
 
-Email: omarkamaldiab9951@gmail.com
+---
 
-GitHub: github.com/omardiab9951
+## 🤝 Soft Skills
+
+- **Leadership** — Coordinating technical teams and driving project workflows end-to-end
+- **Communication** — Translating complex ML concepts into clear narratives for any audience
+
+---
+
+## 📬 Let's Connect
+
+I'm always open to collaborating on interesting AI/ML projects, research, or just talking shop.
+
+- 💼 [linkedin.com/in/omar9951](https://www.linkedin.com/in/omar9951)
+- 📧 [omarkamaldiab9951@gmail.com](mailto:omarkamaldiab9951@gmail.com)
+- 🐙 [github.com/omardiab9951](https://github.com/omardiab9951)
+
+---
+
+<div align="center">
+
+*"The goal is not to build models that fit benchmarks — it's to build systems that work in the wild."*
+
+</div>
