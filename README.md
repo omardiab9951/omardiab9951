@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═════╝ ╚═╝╚═╝  ╚═╝╚═════╝
 ```
 
-### Data Science & AI Student @ SUT | ML/DL Developer | Computer Vision Developer |
+### Data Science & AI Student @ SUT | ML/DL Developer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar9951-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar9951)
 [![GitHub](https://img.shields.io/badge/GitHub-omardiab9951-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omardiab9951)
