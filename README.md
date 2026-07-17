@@ -34,6 +34,26 @@ My technical focus sits at the intersection of **Deep Learning** and **Computer 
 
 ---
 
+## 🚀 Featured Projects
+
+### 🦺 SafeVision AI
+YOLOv8-based workplace PPE compliance and fatigue detection system.
+- 🥈 Placed **2nd out of 38 teams** at ARIIF 2026
+- Trained across four model iterations (v1–v4) with custom augmentation pipelines: a self-built SLRDA system and an SR-inspired CLAHE approach
+- Built an uncertainty-aware confidence scoring engine
+- Business plan grounded in Egyptian regulatory context (Labour Law No. 14 of 2025) and CAPMAS injury statistics, with a competitor analysis of AvidBeam Technologies — submitted to the Egypt Cities Hackathon (ECH)
+- Targeting publication in IEEE Access or MDPI Sensors
+
+### 🧠 Dopa Pal
+Ambient desktop task companion built with Electron, React, TypeScript, and FastAPI.
+- 🏅 **Finalist**, USAII Global AI Hackathon 2026
+- Evolved from an early concept (FirstStep → Anchor → Dopa Pal) into a full product with its own UI/UX design system
+
+### ⚙️ NVIDIA NIM Terminal Agent
+A terminal-based agent and chat toolset built on NVIDIA NIM, running locally.
+
+---
+
 ## 🧠 Technical Skills
 
 ### Languages
