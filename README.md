@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═════╝ ╚═╝╚═╝  ╚═╝╚═════╝
 ```
 
-### AI Developer | Data Science & AI Student @ SUT  
+### AI/ML & LLM/RAG Developer | Data Science & AI Student @ SUT 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar9951-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar9951)
 [![Email](https://img.shields.io/badge/Email-omarkamaldiab9951@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarkamaldiab9951@gmail.com)
@@ -22,9 +22,7 @@
 
 I'm a **Data Science & AI student** at *ElSewedy University of Technology — Polytechnic of Egypt*, driven by a deep passion for AI, data science, and building things that actually work in the real world.
 
-My technical focus is on **Machine Learning, LLMs, RAG systems, and AI Agents** — I've built retrieval-augmented pipelines with FAISS and sentence-transformers, worked hands-on with Hugging Face models, used LangChain for structured output parsing, and built a terminal-based AI agent on top of NVIDIA NIM. I also have real production experience in Computer Vision, having architected and trained a full YOLOv8-based detection system from dataset to deployment.
-
-I'm also big on fundamentals: I've been working steadily through a self-study track in mathematical thinking and ML theory (Mathematics for Machine Learning, 3Blue1Brown, Nielsen → Goodfellow → D2L.ai) because I'd rather understand *why* a model works than just get it to run.
+My technical focus is on **Machine Learning, LLMs, RAG systems, and AI Agents** — I've built retrieval-augmented pipelines with FAISS and sentence-transformers, worked hands-on with Hugging Face models, used LangChain for structured output parsing, and built a terminal-based AI agent on top of NVIDIA NIM. I also have real production experience in Computer Vision, having architected and trained a full YOLOv8-based detection system.
 
 ---
 
@@ -50,9 +48,6 @@ YOLOv8-based workplace PPE compliance and fatigue detection system.
 Ambient desktop task companion built with Electron, React, TypeScript, and FastAPI.
 - 🏅 **Finalist**, USAII Global AI Hackathon 2026
 - Evolved from an early concept (FirstStep → Anchor → Dopa Pal) into a full product with its own UI/UX design system
-
-### ⚙️ NVIDIA NIM Terminal Agent
-A terminal-based agent and chat toolset built on NVIDIA NIM, running locally.
 
 ---
 
@@ -108,7 +103,6 @@ I'm always open to collaborating on interesting AI/ML projects, research, or jus
 
 - 💼 [linkedin.com/in/omar9951](https://www.linkedin.com/in/omar9951)
 - 📧 [omarkamaldiab9951@gmail.com](mailto:omarkamaldiab9951@gmail.com)
-- 🐙 [github.com/omardiab9951](https://github.com/omardiab9951)
 
 ---
 
