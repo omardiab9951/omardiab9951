@@ -9,10 +9,9 @@
  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═════╝ ╚═╝╚═╝  ╚═╝╚═════╝
 ```
 
-### Data Science & AI Student @ SUT | ML/DL Developer 
+### AI Developer | Data Science & AI Student @ SUT  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar9951-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar9951)
-[![GitHub](https://img.shields.io/badge/GitHub-omardiab9951-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omardiab9951)
+[![](https://img.shields.io/badge/LinkedIn-omar9951-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar9951)
 [![Email](https://img.shields.io/badge/Email-omarkamaldiab9951@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarkamaldiab9951@gmail.com)
 
 </div>
