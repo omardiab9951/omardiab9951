@@ -9,7 +9,7 @@
  ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═════╝ ╚═╝╚═╝  ╚═╝╚═════╝
 ```
 
-### AI/ML & LLM/RAG Developer | Data Science & AI Student @ SUT 
+### AI/ML Developer | Building LLM/RAG Applications | Data Analyst Trainee @ DEPI | Data Science & AI Student @ SUT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-omar9951-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar9951)
 [![Email](https://img.shields.io/badge/Email-omarkamaldiab9951@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarkamaldiab9951@gmail.com)
