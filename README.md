@@ -9,72 +9,89 @@
  ╚═════╝ ╚═╝    ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝ ╚═╝╚═╝  ╚═╝╚═════╝
 ```
 
-### Data Science & AI Student @ SUT | Computer Vision • LLMs/RAG • AI Automation
+### AI/ML Developer | Building LLM/RAG Applications | Data Analyst | Data Science & AI Student @ SUT
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar9951-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar9951)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarkamaldiab9951@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar9951-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/omar9951)
+[![Email](https://img.shields.io/badge/Email-omarkamaldiab9951@gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:omarkamaldiab9951@gmail.com)
 
 </div>
 
 ---
 
-### 👋 About Me
-- 🎓 B.Tech. Data Science & AI, **ElSewedy University of Technology** (Polytechnic of Egypt)
-- 🔭 Focused on **Computer Vision**, **LLMs/RAG**, and **AI Workflow Automation**
-- 🥈 **2nd/38 teams** — ARIIF 2026, for SafeVision AI
-- 🏅 **Finalist** — USAII Global AI Hackathon 2026, for Dopa Pal
-- 💼 Interned at **Exology** (AI automation, n8n) & **Tips Hindawi** (LLMs/RAG program)
-- 🙋 Ask me about CV pipelines, RAG systems, or n8n automation
+## 👁️ About Me
+
+I'm a **Data Science & AI student** at *SU Tech ElSewedy University*, driven by a deep passion for AI, data science, and building things that actually work in the real world.
+
+My technical focus is on **Machine Learning, LLMs, RAG systems, Data Science, and Data Analysis** — I've built retrieval-augmented pipelines with FAISS and sentence-transformers, worked hands-on with Hugging Face models, used LangChain for structured output parsing. I also have real production experience in Computer Vision, having architected and trained a full YOLOv8-based detection system.
 
 ---
 
-### 🚀 Featured Projects
+## 🎓 Education
 
-| Project | What it does | Highlight |
-|---|---|---|
-| 🦺 **SafeVision AI** | YOLOv8 real-time PPE compliance & fatigue detection | 🥈 2nd place, ARIIF 2026 |
-| ⚖️ **Qanoony (قانوني)** | Bilingual AI legal assistant for Egyptian employers — LangChain + ChromaDB RAG pipeline | Tips Hindawi Challenge submission |
-| 🧠 **Dopa Pal** | Ambient desktop task companion — Electron/React/TypeScript + FastAPI | 🏅 USAII Hackathon Finalist |
-| 📊 **MarketPulse AI** | Power BI dashboards on a 6M-row eCommerce dataset | Retention & drop-off insights |
+**ElSewedy University of Technology — Polytechnic of Egypt**
+
+* 🎓 Bachelor of Computer Science Technology (B.Tech)
+* 📌 Major: **Data Science and Artificial Intelligence**
 
 ---
 
-### 🧠 Tech Stack
+## 🚀 Featured Projects
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 🦺 SafeVision AI
 
-**AI & ML**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+YOLOv8-based workplace PPE compliance and fatigue detection system.
 
-**Tools**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+* 🥈 Placed **2nd out of 38 teams** at ARIIF 2026
+* Trained across four model iterations (v1–v4) with custom augmentation pipelines: a self-built SLRDA system and an SR-inspired CLAHE approach
+* Built an uncertainty-aware confidence scoring engine
+* Business plan grounded in Egyptian regulatory context (Labour Law No. 14 of 2025) and CAPMAS injury statistics, with a competitor analysis of AvidBeam Technologies — submitted to the Egypt Cities Hackathon (ECH)
+* Targeting publication in IEEE Access or MDPI Sensors
+
+### 🧠 Dopa Pal
+
+Ambient desktop task companion built with Electron, React, TypeScript, and FastAPI.
+
+* 🏅 **Finalist**, USAII Global AI Hackathon 2026
+* Evolved from an early concept (FirstStep → Anchor → Dopa Pal) into a full product with its own UI/UX design system
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omardiab9951&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omardiab9951&theme=radical&hide_border=true" height="165"/>
-</p>
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+### AI & Machine Learning
+
+| Domain                  | Skills                                                                                 |
+| ----------------------- | -------------------------------------------------------------------------------------- |
+| 🤖 **Core AI**          | Machine Learning                                    |
+| 👁️ **Computer Vision** | Object Detection, Real-Time Inference, Image Processing                                |
+| 💬 **LLMs & NLP**       | RAG, Hugging Face, LangChain, Transformers |
+| ☁️ **Data & Cloud**     | Cloud Databases, Data Analytics, Visualization                                         |
+                              
+
+### Engineering & Infrastructure
+
+| Domain                   | Skills                                          |
+| ------------------------ | ----------------------------------------------- |
+| 🗄️ **Data Engineering** | DBMS, Web Scraping, Data Pipelines              |
+| 🌐 **Development**       | Web Programming, OOP (Java)                     |
+| ⚙️ **Automation**        | Workflow Automation with **n8n**                |
+| 📐 **CS Fundamentals**   | Data Structures & Algorithms, Operating Systems |
+
 
 ---
+
+
+
 
 <div align="center">
-
-*"The goal is not to build models that fit benchmarks — it's to build systems that work in the wild."*
-
-📧 [omarkamaldiab9951@gmail.com](mailto:omarkamaldiab9951@gmail.com) · 💼 [linkedin.com/in/omar9951](https://www.linkedin.com/in/omar9951)
 
 </div>
