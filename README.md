@@ -1,121 +1,56 @@
-<div align="center">
+<h1 align="center">Hi, I'm Omar Diab 👋</h1>
+<h3 align="center">Data Science & AI Student | Computer Vision • LLMs & RAG • AI Automation</h3>
 
-```
- ██████╗ ███╗   ███╗ █████╗ ██████╗     ██████╗ ██╗ █████╗ ██████╗
-██╔═══██╗████╗ ████║██╔══██╗██╔══██╗    ██╔══██╗██║██╔══██╗██╔══██╗
-██║   ██║██╔████╔██║███████║██████╔╝    ██║  ██║██║███████║██████╔╝
-██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗    ██║  ██║██║██╔══██║██╔══██╗
-╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║    ██████╔╝██║██║  ██║██████╔╝
- ╚═════╝ ╚═╝    ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝     ╚═════╝ ╚═╝╚═╝  ╚═╝╚═════╝
-```
-
-### AI/ML Developer | Building LLM/RAG Applications | Data Analyst | Data Science & AI Student @ SUT
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar9951-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/omar9951)
-[![Email](https://img.shields.io/badge/Email-omarkamaldiab9951@gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:omarkamaldiab9951@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:omarkamaldiab9951@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/YOUR-KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+</p>
 
 ---
 
-## 👁️ About Me
-
-I'm a **Data Science & AI student** at *SU Tech ElSewedy University*, driven by a deep passion for AI, data science, and building things that actually work in the real world.
-
-My technical focus is on **Machine Learning, LLMs, RAG systems, Data Science, and Data Analysis** — I've built retrieval-augmented pipelines with FAISS and sentence-transformers, worked hands-on with Hugging Face models, used LangChain for structured output parsing. I also have real production experience in Computer Vision, having architected and trained a full YOLOv8-based detection system.
-
----
-
-## 🎓 Education
-
-**ElSewedy University of Technology — Polytechnic of Egypt**
-
-* 🎓 Bachelor of Computer Science Technology (B.Tech)
-* 📌 Major: **Data Science and Artificial Intelligence**
+### 🚀 About Me
+- 🎓 B.Tech. Data Science & AI @ **ElSewedy University of Technology** (2024–Present)
+- 🔭 Building real-world systems in **Computer Vision**, **LLMs/RAG**, and **AI Workflow Automation**
+- 🥈 **2nd Place** – ARIIF 2026 (out of 38 teams) for **Safe Vision AI**
+- 🏁 **Finalist** – USAII Global AI Hackathon 2026 for **Dopa Pal**
+- 🌱 Currently exploring deeper LangChain / vector DB architectures
+- 💬 Ask me about: CV pipelines, RAG systems, n8n automation, or PPE detection models
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Featured Projects
 
-### 🦺 SafeVision AI
-
-YOLOv8-based workplace PPE compliance and fatigue detection system.
-
-* 🥈 Placed **2nd out of 38 teams** at ARIIF 2026
-* Trained across four model iterations (v1–v4) with custom augmentation pipelines: a self-built SLRDA system and an SR-inspired CLAHE approach
-* Built an uncertainty-aware confidence scoring engine
-* Business plan grounded in Egyptian regulatory context (Labour Law No. 14 of 2025) and CAPMAS injury statistics, with a competitor analysis of AvidBeam Technologies — submitted to the Egypt Cities Hackathon (ECH)
-* Targeting publication in IEEE Access or MDPI Sensors
-
-### 🧠 Dopa Pal
-
-Ambient desktop task companion built with Electron, React, TypeScript, and FastAPI.
-
-* 🏅 **Finalist**, USAII Global AI Hackathon 2026
-* Evolved from an early concept (FirstStep → Anchor → Dopa Pal) into a full product with its own UI/UX design system
+| Project | Description | Tech |
+|---|---|---|
+| **[Safe Vision AI](#)** | Real-time industrial PPE compliance & fatigue detection — 7 AI models | `YOLOv8` `CV` `Deep Learning` |
+| **[Qanoony](#)** | Bilingual (AR/EN) AI legal assistant for Egyptian employers | `LangChain` `RAG` `ChromaDB` `FastAPI` |
+| **[Dopa Pal](#)** | Ambient desktop companion for task engagement | `Electron` `React` `TypeScript` `FastAPI` |
+| **[MarketPulse AI](#)** | Analyzed 6M-row eCommerce dataset for retention insights | `Power BI` `Data Analysis` |
 
 ---
 
-## 🧠 Technical Skills
+### 💻 Tech Stack
 
-### Languages
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+**AI/ML:** ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-### AI & Machine Learning
-
-| Domain                  | Skills                                                                                 |
-| ----------------------- | -------------------------------------------------------------------------------------- |
-| 🤖 **Core AI**          | Machine Learning                                    |
-| 👁️ **Computer Vision** | Object Detection, Real-Time Inference, Image Processing                                |
-| 💬 **LLMs & NLP**       | RAG, Hugging Face, LangChain, Transformers |
-| ☁️ **Data & Cloud**     | Cloud Databases, Data Analytics, Visualization                                         |
-                              
-
-### Engineering & Infrastructure
-
-| Domain                   | Skills                                          |
-| ------------------------ | ----------------------------------------------- |
-| 🗄️ **Data Engineering** | DBMS, Web Scraping, Data Pipelines              |
-| 🐧 **DevOps & Systems**  | Linux & Shell Programming, Network Basics       |
-| 🌐 **Development**       | Web Programming, OOP (Java)                     |
-| ⚙️ **Automation**        | Workflow Automation with **n8n**                |
-| 📐 **CS Fundamentals**   | Data Structures & Algorithms, Operating Systems |
+**Tools:** ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
 ---
 
-## 🛠️ What I Build
+### 📊 GitHub Stats
 
-* **Real-time computer vision systems** — from dataset curation to live inference deployment
-* **Deep learning pipelines** — custom architectures, augmentation strategies, and training loops
-* **Automated workflows** — bridging data sources and AI outputs with tools like n8n
-* **Research-grade models** — designed for publication, built for production
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omardiab9951&show_icons=true&theme=radical&hide_border=true" alt="Omar's GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omardiab9951&theme=radical&hide_border=true" alt="Omar's Streak" height="165"/>
+</p>
 
----
-
-## 🤝 Soft Skills
-
-* **Leadership** — Coordinating technical teams and driving project workflows end-to-end
-* **Communication** — Translating complex ML concepts into clear narratives for any audience
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omardiab9951&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
-## 📬 Let's Connect
-
-I'm always open to collaborating on interesting AI/ML projects, research, or just talking shop.
-
-* 💼 [linkedin.com/in/omar9951](https://www.linkedin.com/in/omar9951)
-* 📧 [omarkamaldiab9951@gmail.com](mailto:omarkamaldiab9951@gmail.com)
-
----
-
-<div align="center">
-
-*"The goal is not to build models that fit benchmarks — it's to build systems that work in the wild."*
-
-</div>
+<p align="center"><i>Curious, hands-on, and always looking for the next problem to solve.</i></p>
